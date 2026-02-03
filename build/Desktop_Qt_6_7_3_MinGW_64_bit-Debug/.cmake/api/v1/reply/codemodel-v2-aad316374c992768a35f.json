@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-b217a9b54f9f45517e94.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "recyclage",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "recyclage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recyclage-Debug-873022388a368056a1d0.json",
+					"name" : "recyclage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recyclage_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recyclage_autogen-Debug-94932ffa2da2072c56eb.json",
+					"name" : "recyclage_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "recyclage_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-recyclage_autogen_timestamp_deps-Debug-ff3e86c86aeabe9b3387.json",
+					"name" : "recyclage_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/MSI/Documents/recyclage/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug",
+		"source" : "C:/Users/MSI/Documents/recyclage"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,21 @@
+# ninja log v6
+15	1124	7916055100238424	recyclage_autogen/timestamp	30cc4fbd4f762b8b
+15	1124	7916055100238424	recyclage_autogen/mocs_compilation.cpp	30cc4fbd4f762b8b
+15	1124	7916055100238424	C:/Users/MSI/Documents/recyclage/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/recyclage_autogen/timestamp	30cc4fbd4f762b8b
+15	1124	7916055100238424	C:/Users/MSI/Documents/recyclage/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/recyclage_autogen/mocs_compilation.cpp	30cc4fbd4f762b8b
+1134	2728	7916055101765205	CMakeFiles/recyclage.dir/recyclage_autogen/mocs_compilation.cpp.obj	d21dc8521d7bad11
+1138	2761	7916055101805491	CMakeFiles/recyclage.dir/main.cpp.obj	ca086245166baf8e
+1143	3532	7916055101862799	CMakeFiles/recyclage.dir/mainwindow.cpp.obj	4b0c34d949ff2eb1
+3532	3761	7916055125753167	recyclage.exe	cca8bec6c82f87f6
+89	611	7916058951647657	recyclage_autogen/timestamp	30cc4fbd4f762b8b
+89	611	7916058951647657	recyclage_autogen/mocs_compilation.cpp	30cc4fbd4f762b8b
+89	611	7916058951647657	C:/Users/MSI/Documents/recyclage/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/recyclage_autogen/timestamp	30cc4fbd4f762b8b
+89	611	7916058951647657	C:/Users/MSI/Documents/recyclage/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/recyclage_autogen/mocs_compilation.cpp	30cc4fbd4f762b8b
+612	3207	7916058956877921	CMakeFiles/recyclage.dir/mainwindow.cpp.obj	4b0c34d949ff2eb1
+3207	3487	7916058982835234	recyclage.exe	cca8bec6c82f87f6
+17	277	7916547244041679	recyclage_autogen/timestamp	30cc4fbd4f762b8b
+17	277	7916547244041679	recyclage_autogen/mocs_compilation.cpp	30cc4fbd4f762b8b
+17	277	7916547244041679	C:/Users/MSI/Documents/recyclage/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/recyclage_autogen/timestamp	30cc4fbd4f762b8b
+17	277	7916547244041679	C:/Users/MSI/Documents/recyclage/build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/recyclage_autogen/mocs_compilation.cpp	30cc4fbd4f762b8b
+279	3893	7916547246660964	CMakeFiles/recyclage.dir/mainwindow.cpp.obj	4b0c34d949ff2eb1
+3893	4404	7916547282799308	recyclage.exe	cca8bec6c82f87f6
